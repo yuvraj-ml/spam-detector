@@ -54,17 +54,17 @@ Pickle	- Model serialization and loading
 # 📂 Project Structure
 spam-detector/
 
-├── spam_app.py              # Streamlit application
+├── spam_app.py             
 
-├──spam_model_train.pkl                # Trained Logistic Regression model
+├──spam_model_train.pkl                
 
-├── tfidf.pkl           # TF-IDF Vectorizer
+├── tfidf.pkl          
 
-├── requirements.txt         # Project dependencies
+├── requirements.txt         
 
-├── README.md                # Project documentation
+├── README.md                
 
-├── email_dataset.xlsx           # Training dataset
+├── email_dataset.csv           
 
 # ⚙️ Installation Guide
 
